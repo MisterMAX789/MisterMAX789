@@ -14,11 +14,11 @@ Key skills:
 •Document control
 
 ### Stack
-* ЯП: JAVA, JavaScript.
+* JAVA, JavaScript.
 * IDE: VScode, Intellij IDEA.
 * Git, GitHub.
 * Autotests: Gradle, Selenium, Selenide,Cucumber,Junit(4,5),TestNG,Mockito,Maven,Allure .
-* Cистемы баг-трекинга: Jira, TestRail.
+* Bug tracking system  : Jira, TestRail.
 * HTTP API. Postman, SoapUI, JMeter. 
 * Node, Pupeppeteer,Cypress. 
 * Fiddler, Wireshark, Charles Proxy. 
