@@ -8,7 +8,8 @@ motrukmaksim196@gmail.com
 
 QA engineer with 1 year experience.
 I understand the methodology of manual testing, developed test plans and checklists, I want to progress in automation testing.
-Key skills:
+Key skills:  
+
 •Communication  
 
 •Corrective and preventative actions  
