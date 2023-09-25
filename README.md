@@ -1,6 +1,6 @@
 
-# Всем привет👋, я [Мотрук Максим](https://github.com/MisterMAX789) - QA engineer
-Россия, Санкт-Петербург, maximotruc-95@yandex.ru
+# Hello 👋,  [Motruk Maxim ](https://github.com/MisterMAX789) - QA engineer
+motrukmaksim196@gmail.com
 
 ## О себе
 
