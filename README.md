@@ -6,7 +6,7 @@ motrukmaksim196@gmail.com
 
 ### Objective
 
-QA engineer with 1 year experience.
+QA engineer.
 I understand the methodology of manual testing, developed test plans and checklists, I want to progress in automation testing.
 Key skills:  
 
